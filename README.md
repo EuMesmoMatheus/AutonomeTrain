@@ -1,4 +1,4 @@
 # Autonome-Train
 
-Equipe: goHorse
+Equipe: goHorse <br/>
 Integrantes: Cristian Domingues, Lucas Gadonski & Matheus Lofy 
